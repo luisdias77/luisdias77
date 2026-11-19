@@ -16,6 +16,6 @@
 | [Flight Data Analyzer](https://github.com/luisdias77/Projeto-LI3---Leitor-de-ficheiros-CSV) | C, GLib | High-performance analysis of large aviation datasets using hash tables, pre-computed caches and validated CSV parsing. Memory checked with Valgrind. |
 | [Domus Control](https://github.com/luisdias77/Sistema-Gestao-de-Casas-Inteligentes) | Java | Smart home management CLI with multi-house support, scenarios, schedules, automation triggers and state persistence via serialization. |
 | [Packet Sniffer](https://github.com/luisdias77/packet-sniffer) | Python, Scapy | Network packet sniffer with live or logged capture, filters by protocol, IP, MAC or BPF-style expressions, and traffic statistics. |
-| [Trilhos e Destinos DB](https://github.com/luisdias77/trilhos-e-destinos-db) | MySQL, Python | Full relational database lifecycle for a travel agency: ER and logical models (3NF), role-based security, indexes, procedures, triggers and a CSV migration tool. Graded 16/20. |
+| [Trilhos e Destinos DB](https://github.com/luisdias77/Trilhos-e-Destinos) | MySQL, Python | Full relational database lifecycle for a travel agency: ER and logical models (3NF), role-based security, indexes, procedures, triggers and a CSV migration tool. Graded 16/20. |
 ## 📫 Let's connect
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisdias7720@gmail.com)
